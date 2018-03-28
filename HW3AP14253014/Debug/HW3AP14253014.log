@@ -1,0 +1,1 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Platforms\Win32\PlatformToolsets\v141\Toolset.targets(34,5): error MSB8036: Windows SDK sürümü 8.1 bulunamadı. Windows SDK'nin gerekli sürümünü yükleyin veya proje özellikleri sayfasından ya da çözüme sağ tıklayıp "Çözümü yeniden hedefle"yi seçerek SDK sürümünü değiştirin.
